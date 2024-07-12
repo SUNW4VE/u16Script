@@ -3,4 +3,5 @@ Overly basic Ubuntu 16/18/20 hardening script I made in 2021-22 for CyberPatriot
 
 # Usage
 - Download **uScript.sh** in your sandbox and read it from start to finish before running.
+- In the same directory as the script, run **sudo bash uScript.sh**.
 - If the script breaks something that wasn't accounted for, restart your image. 
